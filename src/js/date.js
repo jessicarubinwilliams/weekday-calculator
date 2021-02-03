@@ -6,5 +6,8 @@ export default class userDate {
       this.year = year;
     }
   }
+  findDay() {
+    
+  }
 };
 
