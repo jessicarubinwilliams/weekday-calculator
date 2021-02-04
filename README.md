@@ -1,12 +1,8 @@
-# _THIS PROJECT IS AN ENVIRONMENT TEMPLATE FOR FUTURE PROJECTS_
+# _Weekday Calculator_
 
-# _This project is not in a complete or portfolio ready state, and should not be considered representational of professional work._
+#### _A web-based application to determine the day of the week for any date_
 
-# _Application Name_
-
-#### _Brief description of application_
-
-#### By _**Jessica R. Williams**_
+#### By _**Dani Renner and Jessica R. Williams**_
 
 ## Technologies Used
 
@@ -32,48 +28,25 @@
 
 ## Description
 
-_This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have. Balance between a summary of the project and a tame market pitch._
+_The app allows for a user to enter a date, and then it tells the user which day of the week that date was, is, or will be._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
 * _Open the terminal on your local machine_
 * _Navigate to the directory inside of which you wish to house this project_
-* _Clone this project with the following git command `$ git clone <https://github.com/jessicarubinwilliams/project>`_
-* _Navigate to the top level of the repository with the command `$ cd project`_
+* _Clone this project with the following git command `$ git clone <https://github.com/jessicarubinwilliams/weekday-calculator>`_
+* _Navigate to the top level of the repository with the command `$ cd weekday-calculator`_
 * _Recreate project environment with terminal command `$ npm install`_
 * _Create production environment with terminal command `$ npm run build`_
 * _Open project in the browser of your choice with the command `$ npm run start`_
 * _Run tests in Jest with the command `$ npm test`_
 
-_Alternatively,_
-
-* _Direct your browser to a [live version on GitHub Pages.] (jessicarubinwilliams.github.io/project/index.html)_
-
-_Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again._
-
-## Specifications
-
-_Behavior_
-_Input Example_
-_Output Example_
-
-_The program should handle:_
-_When it receives:_
-_It should return:_
-
 ## Known Bugs
 
-* _Any known issues_
-* _should go here_
+* _No known bugs_
 
 ## License
 *[MIT](https://choosealicense.com/licenses/mit/)*
-Copyright (c) **_2021 Jessica R. Williams_**
+Copyright (c) **_2021 Dani Renner, Jessica R. Williams_**
 ## Contact Information
-**_Jessica R. Williams [mailto](mailto:jessicarubinwilliams@gmail.com)_**
+**_Dani Renner [mailto](mailto:danijrenner@gmail.com) Jessica R. Williams [mailto](mailto:jessicarubinwilliams@gmail.com)_**
