@@ -8,6 +8,7 @@ $("#formOne").submit(function(event) {
   event.preventDefault();
   let htmlForOutput = "<p>The day of the week is <span id='dayOutput'></span>.</p>";
   let userInput = new Date($("input#userDate").val());
+  $(".output").empty();
   $(".output").show();
   $(".output").append(htmlForOutput);
   $("#dayOutput").text(findDay(userInput));
