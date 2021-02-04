@@ -22,6 +22,6 @@ export default function findDay(userDate) {
     return "Saturday";
   }
   else {
-    return "Entry is not a date";
+    return "indeterminable";
   }
 }
