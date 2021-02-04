@@ -1,5 +1,5 @@
 {
-  "name": "environment-template",
+  "name": "weekday-calculator",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
@@ -7,7 +7,7 @@
     "build": "webpack --mode development",
     "start": "npm run build; webpack-dev-server --open --mode development",
     "lint": "eslint src/*.js",
-    "test": "jest --coverage"
+    "test": "jest --coverage --verbose"
   },
   "keywords": [],
   "author": "",
