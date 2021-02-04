@@ -3,9 +3,22 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title> <!-- When change this title remember to change title in webpack.config.js plugins section and in package.json-->
+  <title>Weekday Calculator</title>
 </head>
 <body>
-  
+  <div class="container">
+    <h1>Weekday Calculator</h1>
+    <h5>Find out the day of the week of any date.</h5>
+    <form id="formOne">
+      <div class="form-group">
+        <label for="userDate">Please enter a date (month day, year)</label>
+        <input type="text" id="userDate" class="form-control">
+      </div>
+      <button type="submit" class="btn btn-info">Learn the day</button>
+    </form>
+    <div class="output">
+
+    </div>
+  </div>
 </body>
 </html>
