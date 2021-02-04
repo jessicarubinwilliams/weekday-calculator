@@ -24,4 +24,4 @@ export default function findDay(userDate) {
   else {
     return "Entry is not a date";
   }
-};
+}
